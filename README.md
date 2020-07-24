@@ -1,4 +1,4 @@
-# go-rollercoaster-api
+# go-rollercoaster-api[How to Build a REST API in Go with Zero Dependencies!](https://morioh.com/p/a3ab03ed46a4?f=5c21fb01c16e2556b555ab32)
 
 > A simple REST API built for the kubucation YouTube channel
 
